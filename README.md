@@ -1,6 +1,6 @@
 # Firstrepository
 This is my first Git Repository
 <br>
-name:"SONU KUMAR"
+name:"SONU YADAV"
 <br>
 course:"BCA"
